@@ -1,2 +1,2 @@
 system-configuration:
-  env: dev-a-backend-develop
+  env: dev-a-backend-release
